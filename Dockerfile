@@ -1,4 +1,4 @@
-FROM registry.redhat.io/redhat-openjdk-18/openjdk18-openshift
+FROM openshift/redhat-openjdk18-openshift:1.2
 
 USER root
 
